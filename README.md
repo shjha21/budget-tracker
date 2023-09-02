@@ -1,31 +1,7 @@
-# Expense Tracker (MERN)
+# Budget Tracker
 
-> Full stack expense tracker
+> Built using React, Node.js, Express, and MongoDB
 
-## Usage
+> Can be used to add, delete, and store transactions
 
-```
-change config.env file in config folder
-```
-
-```
- npm install
- cd client npm install
- cd ..
- 
- # Run front and backend
- npm run dev
- 
- # Backend only
- npm run server
- 
- # Frontend only
- npm run client
- 
- # Build client
- cd client
- npm run build
- 
- # Prod
- npm start
-```
+> Balance is calculated and displayed.
